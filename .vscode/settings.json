@@ -1,0 +1,13 @@
+{
+    "liveServer.settings.port": 7071,
+    
+    "liveServer.settings.root": "public/", 
+    
+    "liveServer.settings.NoBrowser" : false,
+
+    "liveServer.settings.ignoreFiles" : [
+
+        ".vscode/**"
+
+    ], 
+}
